@@ -52,7 +52,7 @@ To run this project, you need:
 
     git clone
     
-     https://github.com/your-username/home-value-prediction.git 
+     https://github.com/RAJESHVHANKADE/House_Value_Prediction/tree/main
     
 2. Navigate to the project directory:
 
