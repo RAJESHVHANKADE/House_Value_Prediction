@@ -77,11 +77,11 @@ To run this project, you need:
 
 from model import HomeValuePredictor
 
-##Load the model
+#Load the model
 
 model = HomeValuePredictor.load_model('path/to/model')
 
-##Use the model to predict prices
+#Use the model to predict prices
 
 predicted_prices = model.predict(X_test)
 
